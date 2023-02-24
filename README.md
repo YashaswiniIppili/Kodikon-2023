@@ -1,2 +1,2 @@
-# Retail-Kodikon-23
+# Kodikon-23
 Innovation in Retail
