@@ -1,2 +1,3 @@
 # Kodikon-23
-Innovation in Retail
+###Innovation in Retail
+#### Mostly focused on Customer Perosnalization
